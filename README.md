@@ -11,7 +11,9 @@ El nombre AgroET es provisional.
 
 ## Estado del proyecto
 
-Etapa actual: 0 — Definición y organización del proyecto.
+Etapa 0 completada — Definición y organización del proyecto.
+
+Próxima etapa: 1 — Evaluación de datos.
 
 La variable de evapotranspiración, la zona de estudio, los datasets
 y la metodología definitiva se seleccionarán después de evaluar
@@ -42,9 +44,9 @@ Objetivo: establecer una base clara y documentada para desarrollar
 AgroET de forma reproducible.
 
 - [x] Definir la presentación y el alcance provisional.
-- [ ] Revisar la estructura inicial del proyecto.
+- [x] Revisar la estructura inicial del proyecto.
 - [x] Establecer qué archivos se versionarán.
-- [ ] Definir cómo documentar fuentes, datos y decisiones.
+- [x] Definir cómo documentar fuentes, datos y decisiones.
 - [x] Publicar la versión inicial del repositorio.
 
 Criterio de cierre: repositorio inicial organizado, documentado
@@ -70,3 +72,23 @@ para permitir la reproducción de los análisis.
 
 Los datos grandes, privados o con restricciones de redistribución
 no se incorporarán al repositorio.
+
+## Organización de la documentación
+
+La documentación se incorporará al repositorio conforme sea
+revisada y resulte necesaria para cada etapa.
+
+- Las decisiones y sus motivos se registran en
+  `research/decision_log.md`.
+- Las fuentes de datos se documentarán en
+  `research/data_inventory.md`.
+- Las búsquedas bibliográficas y de datasets se documentarán en
+  `research/search_log.md`.
+
+Para cada fuente de datos se registrarán su organismo o autor,
+enlace, versión cuando corresponda, variables, unidades, cobertura,
+resolución, método de generación, acceso, condiciones de uso
+y limitaciones.
+
+Las búsquedas incluirán fecha, consultas utilizadas y fuentes
+revisadas. Se distinguirá la información verificada de la pendiente.
