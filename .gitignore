@@ -1,0 +1,48 @@
+# Entornos y archivos temporales de Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+
+# Credenciales y configuracion privada
+.env
+.env.*
+!.env.example
+credentials.json
+credentials.*.json
+secrets.json
+secrets.*.json
+*.pem
+*.key
+
+# Datos completos y resultados regenerables
+/data/raw/
+/data/external/
+/data/interim/
+/data/processed/
+*.nc
+*.nc4
+*.hdf
+*.h5
+*.tif
+*.tiff
+*.grib
+*.grib2
+*.zip
+*.tar
+*.gz
+
+# Archivos locales del sistema y herramientas
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
