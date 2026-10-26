@@ -41,11 +41,11 @@ y el alcance del proyecto.
 Objetivo: establecer una base clara y documentada para desarrollar
 AgroET de forma reproducible.
 
-- [ ] Definir la presentación y el alcance provisional.
+- [x] Definir la presentación y el alcance provisional.
 - [ ] Revisar la estructura inicial del proyecto.
-- [ ] Establecer qué archivos se versionarán.
+- [x] Establecer qué archivos se versionarán.
 - [ ] Definir cómo documentar fuentes, datos y decisiones.
-- [ ] Publicar la versión inicial del repositorio.
+- [x] Publicar la versión inicial del repositorio.
 
 Criterio de cierre: repositorio inicial organizado, documentado
 y publicado, con sus decisiones pendientes explícitas.
