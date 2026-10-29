@@ -11,9 +11,9 @@ El nombre AgroET es provisional.
 
 ## Estado del proyecto
 
-Etapa 0 completada — Definición y organización del proyecto.
+Etapa actual: 1 — Evaluación de datos.
 
-Próxima etapa: 1 — Evaluación de datos.
+Etapa 0 completada — Definición y organización del proyecto.
 
 La variable de evapotranspiración, la zona de estudio, los datasets
 y la metodología definitiva se seleccionarán después de evaluar
