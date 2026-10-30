@@ -65,7 +65,7 @@ no constituyen una selección definitiva para los modelos.
 
 - **Inicio provisional:** 1985-01-01.
 - **Fecha final:** 2025-12-31
-- **Justificación:** Teniendo en cuenta que no todos los datos tenian cobertura de datos desde el mismo año, arbitrariamente se tomó la decisión de fijar el inicio provisional en el año 1985 para contar con al menos 40 años en información.
+- **Justificación:** Se propone provisionalmente el periodo 1985–2025 para explorar una ventana temporal común entre las variables meteorológicas y de radiación de NASA POWER, cuyos registros comienzan en años diferentes. Su utilización definitiva dependerá de comprobar la disponibilidad y continuidad por variable y ubicación, así como la coincidencia con otras fuentes.
 - **Condición de revisión:** comprobar disponibilidad, continuidad
   y coincidencia temporal con las demás fuentes seleccionadas.
 
@@ -91,7 +91,9 @@ no constituyen una selección definitiva para los modelos.
 - **Limitación:** la cobertura anunciada no demuestra por sí sola
   ausencia de faltantes ni homogeneidad de toda la serie.
 
-Fuente: cabecera de la respuesta guardada en `nasa_power.json`.
+Fuentes: 
+- [NASA POWER — Cobertura de meteorología](https://power.larc.nasa.gov/docs/methodology/data/sources_meteorology/).
+- [NASA POWER — Cobertura de radiación](https://power.larc.nasa.gov/docs/methodology/data/sources_fluxes/).
 La correspondencia de CERES SYN1deg con la radiación se revisó
 en la documentación oficial de fuentes; la cabecera por sí sola
 no asigna cada variable a una fuente.
